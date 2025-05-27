@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://stanis-molnar.github.io',
+  url: 'https://github.com/stanis-molnar',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/MolnarApps/',
+  baseUrl: '/MolnarApps',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'https://github.com/stanis-molnar', // Usually your GitHub org/user name.
-  projectName: 'MolnarApps', // Usually your repo name.
+  projectName: '/MolnarApps', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
