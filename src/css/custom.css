@@ -28,3 +28,12 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Only affect tables inside markdown content */
+.markdown table th {
+  font-size: 1.2em;
+}
+.markdown table td {
+  font-size: 50px;
+}
+
