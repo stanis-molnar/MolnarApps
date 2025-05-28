@@ -15,7 +15,7 @@ sidebar_position: 1
 - The first player makes an opening bid, stating a quantity and a face value (<span style={{backgroundColor: "#25c2a0", color: '#fff'}}>**e.g. "three 4s"**</span>). 
 This bid represents their claim that there are at least that many dice showing that face value among all players' dice combined.
 
-Note: Ones (1s) are wild and count as any face value unless the first bid is on ones, in which case ones are only counted as ones for that round.
+Note: Ones (1s) are jokers and count as any face value unless the first bid is on ones, in which case ones are only counted as ones for that round.
 
 ### 3. Subsequent Bids
 
@@ -28,7 +28,7 @@ Note: Ones (1s) are wild and count as any face value unless the first bid is on 
 
 - Instead of bidding, a player may challenge the previous bid by calling "liar" or "bluff."
 - All players then reveal their dice.
-- Count the number of dice showing the face value of the last bid, including wild ones.
+- Count the number of dice showing the face value of the last bid, including ones (jokers).
 - If the actual count is equal to or greater than the bid, the bidder wins; the challenger loses one die.
 - If the actual count is less than the bid, the challenger wins; the bidder loses one die.
 
@@ -47,7 +47,7 @@ Note: Ones (1s) are wild and count as any face value unless the first bid is on 
 
 :::tip[Additional Notes]
 
-- Players must keep the value their dice hidden (hid the screen of your phone) except when a challenge is called.
+- Players must keep the value their dice hidden (hide the screen of your phone) except when a challenge is called.
 - The game is best played with 3 or more players.
 
 :::
